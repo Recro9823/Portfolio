@@ -1,0 +1,14 @@
+C:\Users\Doman\source\repos\OffCalM\OffCalM\bin\Debug\net9.0\OffCalM.exe
+C:\Users\Doman\source\repos\OffCalM\OffCalM\bin\Debug\net9.0\OffCalM.deps.json
+C:\Users\Doman\source\repos\OffCalM\OffCalM\bin\Debug\net9.0\OffCalM.runtimeconfig.json
+C:\Users\Doman\source\repos\OffCalM\OffCalM\bin\Debug\net9.0\OffCalM.dll
+C:\Users\Doman\source\repos\OffCalM\OffCalM\bin\Debug\net9.0\OffCalM.pdb
+C:\Users\Doman\source\repos\OffCalM\OffCalM\obj\Debug\net9.0\OffCalM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doman\source\repos\OffCalM\OffCalM\obj\Debug\net9.0\OffCalM.AssemblyInfoInputs.cache
+C:\Users\Doman\source\repos\OffCalM\OffCalM\obj\Debug\net9.0\OffCalM.AssemblyInfo.cs
+C:\Users\Doman\source\repos\OffCalM\OffCalM\obj\Debug\net9.0\OffCalM.csproj.CoreCompileInputs.cache
+C:\Users\Doman\source\repos\OffCalM\OffCalM\obj\Debug\net9.0\OffCalM.dll
+C:\Users\Doman\source\repos\OffCalM\OffCalM\obj\Debug\net9.0\refint\OffCalM.dll
+C:\Users\Doman\source\repos\OffCalM\OffCalM\obj\Debug\net9.0\OffCalM.pdb
+C:\Users\Doman\source\repos\OffCalM\OffCalM\obj\Debug\net9.0\OffCalM.genruntimeconfig.cache
+C:\Users\Doman\source\repos\OffCalM\OffCalM\obj\Debug\net9.0\ref\OffCalM.dll
