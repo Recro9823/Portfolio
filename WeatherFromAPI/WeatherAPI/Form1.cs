@@ -31,6 +31,8 @@ namespace WeatherAPI
 
                 result = JsonConvert.DeserializeObject<EmpConnection.Rootobject>(rawResponse);
 
+                dataGridTable.Rows.Clear();
+                listbox.Items.Clear();
                 if (result != null)
                 {
                     int index = 0;
